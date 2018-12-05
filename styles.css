@@ -1,0 +1,26 @@
+body{
+    text-align:center;
+    background-color:#fff01e;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 250px;
+}
+
+.Castle {
+    width: 400px;
+}
+
+.alive {
+    display: none;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+}
